@@ -24,6 +24,6 @@
     },
     "dependencies": {
         "sweetalert2": "^8.2.6",
-        "validator": "^10.11.0"
+        "validator": "^13.7.0"
     }
 }
